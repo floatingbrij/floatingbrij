@@ -1,4 +1,7 @@
-### Hi there 👋
+
+# Hello, folks! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="30px">
+
+### My name is Brijesharun G and I'm a Web & Android Developer. I'm from Tamil Nadu, India, and currently pursueing a degree in B.Tech.
 
 <!--
 **floatingbrij/floatingbrij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
