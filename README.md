@@ -8,6 +8,8 @@
 - 💬 Ask me about Google cloud Platform!
 - 📫 How to reach me: Email me at <a href="brij@floatingbrij.tech">brij@floatingbrij.tech</a>
 
+[![Brij's GitHub stats](https://github-readme-stats.vercel.app/api?username=floatingbrij)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **floatingbrij/floatingbrij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
