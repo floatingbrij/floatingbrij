@@ -1,10 +1,10 @@
 
 # Hello, folks! <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="30px">
 
-### My name is Brijesharun G and I'm a Web & Android Developer. Currently pursuing a degree in B.Tech.
+### My name is Brijesharun G and I'm interested in Cyber Security. Currently pursuing a degree in B.Tech.
 
-- 🔭 I’m working on Discord Bots and Javascript Websites.
-- 🌱 I’m currently learning Python Devlopment & Machine learning.
+- 🔭 I’m working on Javascript & Python.
+- 🤖 CTF Player - Crypto & Forensics
 
 
 [![Brij's GitHub stats](https://github-readme-stats.vercel.app/api?username=floatingbrij)](https://github.com/anuraghazra/github-readme-stats)
