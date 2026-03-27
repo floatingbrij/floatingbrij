@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Brijesharun Gurumurthy 👋</h1>
-<h3 align="center">Agentic AI Engineer | Creator of WinApp MCP | Windows Platform Expert</h3>
+<h3 align="center">Agentic AI Engineer | WinApp MCP | Windows Platform Expert</h3>
 
 <p align="center">
   <a href="https://github.com/floatingbrij/desktop-pilot-mcp">
@@ -20,7 +20,7 @@
 
 I build the tools that give **AI agents eyes and hands on Windows desktop applications**.
 
-I created **[WinApp MCP (desktop-pilot-mcp)](https://github.com/floatingbrij/desktop-pilot-mcp)** — an open-source MCP server with **55 UI automation tools** that lets AI assistants like GitHub Copilot, Claude, and ChatGPT control any native Windows app. Browser automation has Playwright. Mobile has Appium. **Windows desktop now has WinApp MCP.**
+I built **[WinApp MCP (desktop-pilot-mcp)](https://github.com/floatingbrij/desktop-pilot-mcp)** — an open-source MCP server with **55 UI automation tools** that lets AI assistants like GitHub Copilot, Claude, and ChatGPT control any native Windows app. With smart caching, fuzzy matching, annotated screenshots, and support for minimized/locked windows — it goes deeper than any other Windows desktop automation MCP available today.
 
 ### 🔥 Featured Project
 
@@ -47,20 +47,26 @@ I created **[WinApp MCP (desktop-pilot-mcp)](https://github.com/floatingbrij/des
 ### 🛠️ Tech Stack
 
 **Agentic AI & MCP**
-
-![MCP](https://img.shields.io/badge/MCP-Protocol-blueviolet?style=flat-square) ![FlaUI](https://img.shields.io/badge/FlaUI-UI_Automation-orange?style=flat-square) ![UI Automation](https://img.shields.io/badge/UIA3-Windows_Automation-blue?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Protocol-blueviolet?style=flat-square)
+![FlaUI](https://img.shields.io/badge/FlaUI-UI_Automation-orange?style=flat-square)
+![UI Automation](https://img.shields.io/badge/UIA3-Windows_Automation-blue?style=flat-square)
 
 **Languages & Frameworks**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Windows Platform**
-
-![WinUI](https://img.shields.io/badge/WinUI_3-0078D6?style=flat-square&logo=windows&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![XAML](https://img.shields.io/badge/XAML-0C54C2?style=flat-square&logo=xaml&logoColor=white) ![MVVM](https://img.shields.io/badge/MVVM-Architecture-green?style=flat-square)
+![WinUI](https://img.shields.io/badge/WinUI_3-0078D6?style=flat-square&logo=windows&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![XAML](https://img.shields.io/badge/XAML-0C54C2?style=flat-square&logo=xaml&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-Architecture-green?style=flat-square)
 
 **Cloud & Tools**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ### 📊 GitHub Stats
 
@@ -70,10 +76,4 @@ I created **[WinApp MCP (desktop-pilot-mcp)](https://github.com/floatingbrij/des
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=floatingbrij&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <i>Building infrastructure that makes AI truly useful beyond the browser.</i>
 </p>
