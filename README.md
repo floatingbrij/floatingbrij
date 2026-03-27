@@ -1,29 +1,79 @@
-<h1 align="center">Hi 👋, I'm Brijesharun Gurumurthy</h1>
-<h3 align="center">A passionate Web Developer/Python Dev and a Cyber Security Enthusiast from India.</h3>
+<h1 align="center">Hi, I'm Brijesharun Gurumurthy 👋</h1>
+<h3 align="center">Agentic AI Engineer | Creator of WinApp MCP | Windows Platform Expert</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=floatingbrij&label=Profile%20views&color=0e75b6&style=flat" alt="floatingbrij" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=floatingbrij" alt="floatingbrij" /></a> </p>
-
-- 🔭 I’m currently working on [a sudoku Web app](https://github.com/floatingbrij/sudoku)
-
-- 🌱 I’m currently learning **Web Frameworks, Forensics**
-
-- 💬 Ask me about **python, memory analysis**
-
-- 📫 How to reach me **brijesharun@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/floatingbrij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="floatingbrij" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/floatingbrij/desktop-pilot-mcp">
+    <img src="https://img.shields.io/badge/🚀_WinApp_MCP-Playwright_for_Windows_Desktop-blue?style=for-the-badge" alt="WinApp MCP" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/floatingbrij"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/floatingbrij"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:brijesharun@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://brijesharun.com"><img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=About.me&logoColor=white" alt="Website"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=floatingbrij&show_icons=true&locale=en&layout=compact" alt="floatingbrij" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=floatingbrij&show_icons=true&locale=en" alt="floatingbrij" /></p>
+### 🎯 What I Do
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=floatingbrij&" alt="floatingbrij" /></p>
+I build the tools that give **AI agents eyes and hands on Windows desktop applications**.
 
+I created **[WinApp MCP (desktop-pilot-mcp)](https://github.com/floatingbrij/desktop-pilot-mcp)** — an open-source MCP server with **55 UI automation tools** that lets AI assistants like GitHub Copilot, Claude, and ChatGPT control any native Windows app. Browser automation has Playwright. Mobile has Appium. **Windows desktop now has WinApp MCP.**
+
+### 🔥 Featured Project
+
+<a href="https://github.com/floatingbrij/desktop-pilot-mcp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=floatingbrij&repo=desktop-pilot-mcp&theme=tokyonight" />
+</a>
+
+**WinApp MCP** — Playwright for Windows Desktop Apps
+- 🛠️ **55 tools** for complete Windows UI automation via MCP protocol
+- 🔍 Deep UI inspection with DOM-like snapshots, fuzzy matching, element search
+- 🖱️ Full interaction: click, type, drag, fill forms, select dropdowns
+- 📸 Visual verification with annotated screenshots & pixel-diff comparison
+- ⚡ Performance-optimized with smart caching (2s descendant / 30s window TTL)
+- 🪟 Works even when app is minimized or screen is locked
+- 🏗️ Built with C#, .NET 8, FlaUI, and MCP 1.1.0
+
+### 💼 Professional
+
+- **Member Technical Staff** at **Zoho** — Building Windows apps for Zoho Finance (Books, Invoice, Billing) serving **15,000+ users**
+- Developing production applications with **C#, WinUI, .NET, MVVM**
+- Previously: **Microsoft Future Ready Talent Intern** | **Core Team @ Team 1nf1n1ty** (Cybersecurity)
+- 🏆 **2nd Place — InCTF Nationals 2022** (National Cybersecurity CTF)
+
+### 🛠️ Tech Stack
+
+**Agentic AI & MCP**
+
+![MCP](https://img.shields.io/badge/MCP-Protocol-blueviolet?style=flat-square) ![FlaUI](https://img.shields.io/badge/FlaUI-UI_Automation-orange?style=flat-square) ![UI Automation](https://img.shields.io/badge/UIA3-Windows_Automation-blue?style=flat-square)
+
+**Languages & Frameworks**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Windows Platform**
+
+![WinUI](https://img.shields.io/badge/WinUI_3-0078D6?style=flat-square&logo=windows&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![XAML](https://img.shields.io/badge/XAML-0C54C2?style=flat-square&logo=xaml&logoColor=white) ![MVVM](https://img.shields.io/badge/MVVM-Architecture-green?style=flat-square)
+
+**Cloud & Tools**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=floatingbrij&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=floatingbrij&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building infrastructure that makes AI truly useful beyond the browser.</i>
+</p>
